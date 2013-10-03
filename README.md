@@ -4,8 +4,8 @@ Fuel-Tasks-Testontest
 The package for FuelPHP
 
 1. switch test environment
-2. down all migration
-3. up all migration
+2. down all migrations
+3. up all migrations
 4. run test
 
 Installing
